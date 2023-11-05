@@ -1,0 +1,13 @@
+{
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYVEhgWFhUYGBgaHBoaHBgYGBwYGhwZGBgdGRgYGBgcIy4lHB4rIRwaJjgmKy81NTU1GiQ7QDs0Py40NTEBDAwMEA8QGhISHzssISs3NTQxND80OjQ3NjQ0NjQ0MT82NDQ3PzE0NjQxNDQ0NjE/MTYxMTE0NDQxMTQ/MTQxNP/AABEIAOEA4QMBIgACEQEDEQH/",
+    "name": "asus",
+    "cpu": "i7 10000",
+    "mb": "asus",
+    "vga": "gtx 1000",
+    "ram": "16g",
+    "ssd": "500g",
+    "hdd": "500g",
+    "psu": "500w",
+    "cases": "cases",
+    "price": "1000"
+}
